@@ -1,16 +1,11 @@
 <!-- Анимация текста -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A500&size=24&center=true&vCenter=true&width=800&lines=Привет!+Я+начинающий+frontend-разработчик;Меня+зовут+Тимурбек+уулу+Марлен;Я+изучаю;HTML+%7C+CSS+%7C+JavaScript"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F8A700&size=24&center=true&vCenter=true&width=800&lines=Привет!+Я+начинающий+frontend-разработчик;Меня+зовут+Тимурбек+уулу+Марлен;Я+изучаю;HTML+%7C+CSS+%7C+JavaScript"/>
 </p>
 
 ---
 
-<!-- Анимированные SVG-иконки -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marlenbek03/icons/main/html5-bounce.svg" width="70" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/Marlenbek03/icons/main/css3-bounce.svg" width="70" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/Marlenbek03/icons/main/javascript-bounce.svg" width="70" alt="JavaScript" />
-</p>
+
 
 ---
 
