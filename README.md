@@ -1,6 +1,6 @@
 <!-- Анимация текста -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%green&size=24&center=true&vCenter=true&width=800&lines=Привет!+Я+начинающий+frontend-разработчик;Меня+зовут+Тимурбек+уулу+Марлен;/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%green&size=24&center=true&vCenter=true&width=800&lines=Привет!+Я+начинающий+frontend-разработчик;Меня+зовут+Тимурбек+уулу+Марлен;</>
 </p>
 
 <h3 align="center">🚀 Что я изучаю</h3>
