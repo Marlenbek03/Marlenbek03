@@ -1,36 +1,62 @@
-<!-- Анимация текста -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%green&size=24&center=true&vCenter=true&width=800&lines=Привет!+Я+начинающий+frontend-разработчик;Меня+зовут+Тимурбек+уулу+Марлен;HTML+%7C+CSS%7C+JavaScriot"/></>
-</p>
+# 👋 Привет, я Marlenbek  
+
+### 🚀 Frontend Developer | 🎨 UI/UX Enthusiast | ⚡ Performance Advocate  
+
+Создаю современные веб-интерфейсы с упором на **скорость, доступность и визуальную эстетику**.  
+Работаю с последними фронтенд-технологиями и стремлюсь превращать идеи в **функциональные и стильные приложения**.  
 
 ---
 
-<h3 align="center">🚀 Что я изучаю</h3>
+## 🛠️ Стек технологий  
 
-- 📌 HTML — структура сайта  
-- 🎨 CSS — стили и оформление  
-- ⚡ JavaScript — интерактив и логика  
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
----
-
-<h3 align="center">🎯 Моя цель</h3>
-
-> Стать профессиональным frontend-разработчиком и делать стильные сайты 🚀
-
----
-
-<h3 align="center">📊 Моя статистика</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marlenbek03&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+</div>  
 
 ---
 
-📌 **Скоро добавлю сюда свои проекты!**
+## 📈 GitHub аналитика  
 
-# Салам 👋
-Менин байланыштарым:
+<div align="center">
 
-📱 Телефон: +996 224 007 631  
-✈️ Telegram: [t.me/username](https://t.me/marlenbek_03)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlenbek&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlenbek&layout=compact&theme=radical&hide_border=true)  
+
+</div>  
+
+---
+
+## 🌍 Социальные ссылки  
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://t.me/marlenbek_03)  
+
+ 
+
+</div>  
+
+---
+
+## 🐍 Анимация активности  
+
+![snake gif](https://github.com/Marlenbek/Marlenbek/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## ✨ Немного о себе  
+
+- 🔭 Работаю над проектами с использованием **React + TailwindCSS**  
+- 🌱 Изучаю **Next.js** и **оптимизацию производительности фронтенда**  
+- 🎯 Цель: создавать интерфейсы, которые будут одновременно **удобны и эстетичны**  
+- ⚡ Фокус: **чистый код**, дизайн-системы и кроссбраузерность  
