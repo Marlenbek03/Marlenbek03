@@ -58,7 +58,4 @@
 
 ---
 
-## 🐍 Анимация с коммитами  
-
-![snake gif](https://github.com/Marlenbek/Marlenbek/blob/main/github-contribution-grid-snake.svg)
 
