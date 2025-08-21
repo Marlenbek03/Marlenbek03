@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Привет,+я+Marlenbek;💻+Frontend+Developer;🚀+React+%7C+%7C+JavaScript;✨+Создаю+стильные+и+адаптивные+сайты" alt="Typing SVG" />
 </p>
 
-<!-- Баннер -->
-<p align="center">
-  <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" alt="Frontend Developer Banner" />
-</p>
-
 ---
 
 ## 🧑‍💻 Обо мне
