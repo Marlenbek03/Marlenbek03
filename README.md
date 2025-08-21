@@ -5,7 +5,7 @@
 
 <!-- Баннер -->
 <p align="center">
-  <img src="https://i.ibb.co/TTgxn7c/frontend-banner.png" alt="Frontend Developer Banner" />
+  <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" alt="Frontend Developer Banner" />
 </p>
 
 ---
