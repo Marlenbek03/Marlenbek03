@@ -60,6 +60,5 @@
 
 ## 🐍 Анимация с коммитами  
 
-<p align="center">
-  <img src="https://github.com/Marlenbek/Marlenbek/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![snake gif](https://github.com/Marlenbek/Marlenbek/blob/main/github-contribution-grid-snake.svg)
+
